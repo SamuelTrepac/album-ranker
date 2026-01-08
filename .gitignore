@@ -1,0 +1,4 @@
+.direnv
+result
+frontend/.yarn
+frontend/.pnp.cjs
